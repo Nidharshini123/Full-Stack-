@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Pizza Shop</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Pizza Shop</h1>
+
+    <h2>Delicious Pizza for Everyone!</h2>
+
+    <p>
+        Welcome to our pizza shop.
+        We serve fresh, hot and tasty pizzas.
+        Visit our shop and enjoy your favourite pizza.
+    </p>
+
+    <hr>
+
+    <h2>Our Pizza Menu</h2>
+
+    <ul>
+        <li>Cheese Pizza - Rs.150</li>
+        <li>Veg Pizza - Rs.180</li>
+        <li>Paneer Pizza - Rs.220</li>
+        <li>Chicken Pizza - Rs.250</li>
+    </ul>
+
+    <h2>Pizza Image</h2>
+
+    <img src="C:\Users\TEMP.KCW.029\Downloads\pizza\Pizza img.webp" width="300" height="200"
+         alt="Delicious Pizza">
+
+    <h2>Our Special Pizza</h2>
+
+    <p>Try our special cheese pizza!</p>
+
+    <h2>Pizza Preparation Video</h2>
+
+    <video width="300" height="200" controls>
+        <source src="C:\Users\TEMP.KCW.029\Downloads\pizza\pizza.mp4..mp4" type="video/mp4">
+    </video>
+
+    <h2>Listen to Music</h2>
+
+    <audio controls>
+        <source src"C:\Users\TEMP.KCW.029\Downloads\pizza\music.mp3..mp3" type="audio/mpeg">
+    </audio>
+
+    <h2>Our Services</h2>
+
+    <ol>
+        <li>Home Delivery</li>
+        <li>Online Ordering</li>
+        <li>Takeaway</li>
+        <li>Dine In</li>
+    </ol>
+
+    <h2>Contact Us</h2>
+
+    <p>Phone: 9876543210</p>
+
+    <a href="https://www.google.com">
+        Visit Google
+    </a>
+
+    <hr>
+
+    <p>Thank you for visiting our Pizza Shop!</p>
+
+</body>
+</html>
+
+ 
